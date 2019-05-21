@@ -1,4 +1,4 @@
 // Type your code here, or load an example.
-int square(int num) {
-    return num * num;
+int add(int a, int b) {
+    return a + b;
 }
